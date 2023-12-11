@@ -4,7 +4,7 @@ Hi 👋 My name is The The Lwin
 Web Developer
 -------------
 
-I'm a frontend, wordpress cms and laravel developer who has been building for the web in some capacity since 2007.
+I'm a frontend (Reactjs, Nextjs), wordpress cms and laravel developer who has been building for the web in some capacity since 2007.
 
 * 🌍  I'm based in Yangon, Myanmar
 * 🧠  I'm learning React , Next , Nodejs , React Native
